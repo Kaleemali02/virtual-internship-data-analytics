@@ -119,7 +119,7 @@ Decodelabs_internship/
 └── charts/
 🚀 How to Run the Project
 1. Clone the Repository
-git clone <repository_link>
+git clone <https://github.com/Kaleemali02/DecodeLabs-Internship/tree/main>
 2. Create Virtual Environment
 python -m venv venv
 3. Activate Virtual Environment
