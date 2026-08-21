@@ -12,7 +12,7 @@
 | **Organization** | [Decodelabs] |
 | **Internship Type** | Virtual Internship |
 | **Duration** | 1 Month |
-| **Period** | [Month Year – Month Year] |
+| **Period** | [15 May 2026 – 15 June 2026] |
 | **Domain** | Data Analytics |
 | **Mode** | Remote / Virtual |
 
