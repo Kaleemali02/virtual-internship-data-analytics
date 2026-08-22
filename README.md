@@ -69,23 +69,16 @@ During this internship, I focused on developing practical experience in the comp
 
 ---
 
-# 📂 Repository Structure
+## 📁 Project Structure
 
 ```text
-virtual-internship-data-analytics/
+Decodelabs_internship/
 │
 ├── 📁 Data/
-│   ├── raw/
-│   └── processed/
-│
-├── 📁 Notebooks/
-│   ├── task_01.ipynb
-│   ├── task_02.ipynb
-│   └── task_03.ipynb
-│
-├── 📁 SQL/
-│   ├── analysis.sql
-│   └── queries.sql
+│   ├── Dataset for Data Analytics.xlsx
+│   ├── Cleaned_data.xlsx
+│   ├── Data.xlsx
+│   └── EDA_Processed_Data.xlsx
 │
 ├── 📁 Images/
 │   ├── visualization_01.png
@@ -93,14 +86,13 @@ virtual-internship-data-analytics/
 │   └── project_preview.png
 │
 ├── 📁 Certificate/
-│   └──  ## 📜 Certificate
-             
-[View my DecodeLabs Internship Certificate](./Certificate/DecodeLabs%20Internship%20Certificate.pdf)
-
+│   └── DecodeLabs Internship Certificate.pdf
 │
 ├── 📁 LOR/
 │   └── letter_of_recommendation.pdf
 │
-├── requirements.txt
-│
-└── README.md
+├── 📄 data_cleaning.ipynb
+├── 📄 EDA.ipynb
+├── 📄 Decodelabs_Project3_SQL_Data_Analysis.sql
+├── 📄 requirements.txt
+└── 📄 README.md
