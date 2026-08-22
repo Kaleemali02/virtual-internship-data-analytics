@@ -94,8 +94,7 @@ virtual-internship-data-analytics/
 │
 ├── 📁 Certificate/
 │   └──  ## 📜 Certificate
-             ## 📜 Certificate
-
+             
 [View my DecodeLabs Internship Certificate](./Certificate/DecodeLabs%20Internship%20Certificate.pdf)
 
 │
