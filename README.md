@@ -165,14 +165,6 @@ virtual-internship-data-analytics/
 
 ---
 
-# 📝 Letter of Recommendation
-
-> Add the LOR file to the repository before using this link.
-
-🔗 **[View Letter of Recommendation](./LOR/letter_of_recommendation.pdf)**
-
----
-
 # 📈 Key Learning Outcomes
 
 Through this internship, I strengthened my practical understanding of:
