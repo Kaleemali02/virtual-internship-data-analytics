@@ -93,7 +93,10 @@ virtual-internship-data-analytics/
 │   └── project_preview.png
 │
 ├── 📁 Certificate/
-│   └── internship_certificate.pdf
+│   └──  ## 📜 Certificate
+
+🔗 [View my DecodeLabs Internship Certificate](Certificate/DecodeLabs%20Internship%20Certificate.pdf)
+
 │
 ├── 📁 LOR/
 │   └── letter_of_recommendation.pdf
